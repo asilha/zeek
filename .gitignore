@@ -11,3 +11,4 @@ cmake-build-*
 
 # ignore pyenv local settings
 .python-version
+workspace.code-workspace
